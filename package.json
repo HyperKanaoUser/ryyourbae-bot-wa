@@ -1,0 +1,18 @@
+{ 
+  "name": "ryyourbae",
+  "version": "1,0",
+  "description": "Ryyourbae Bot WhatsApp",
+  "main": "index.js",
+  "scripts": {
+        "author": "ryyourbae",
+        "lisence": "MIT",
+        "start":   "node Index.js"
+    },
+
+    "dependencies": {
+        "@whiskeysocket/baileys": "6.7.5",
+        "chalk": "^4.1.2",
+        "pino": "^4.1.2",
+        "readline": "1.3.0"
+    }
+}
